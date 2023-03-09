@@ -13,7 +13,8 @@ humandate: "18 January 2023"    # human-readable dates for the workshop (e.g., "
 humantime: "1:00 pm - 2:00 pm PST"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2023-01-18      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2023-01-18        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["JT Miller", "Jorrit Poelen", "Katja Seltmann"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Deb Paul", "Katja Seltmann"] 
+# boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 # helper: [ "you!" ]
 
 # ["helper one", "helper two"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
@@ -92,17 +93,12 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 
-A showcase of [GloBI](https://globalbioticinteractions.org)'s name-alignment-tool, used to align a list of taxonomic names against multiple catalogues. This workshop is directed towards assisting curators in standardizing their collections. The workshop will be one hour and will go through a step by step guide to using the name-alignment-tool including navigating github, editing arguments, and accessing outputs.
-
-Our overall goal of this workshop is provide a tutorial on the usage of the name-alignment-tool in resolving large taxonomic lists as well as illustrate common issues one should be aware of when aligning names. 
-
+A introductory Darwin Core mapping exercise using bee monitoring and biodiversity datasets.
 
 
 ## Acknowledgements
 A special thanks to the following organizations and projects that made this work and tutorial possible:
-[NSF](https://nsf.gov) for their support and funding of [Big-Bee](https://www.idigbio.org/wiki/index.php?title=TCN:_Extending_Anthophila_research_through_image_and_trait_digitization_(Big-Bee)&mobileaction=toggle_view_desktop), Extending Anthophila research through image and trait digitilization. ([NSF:DBI:2102006](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2102006&HistoricalAwards=false)), 
-Global Biotic Interactions [GloBI](https://globalbioticinteractions.org) for integration of Nomer for name alignment, and 
-[iDigBio](https://www.idigbio.org) for TCN support. 
+[NSF](https://nsf.gov) for their support and funding of [Big-Bee](https://www.idigbio.org/wiki/index.php?title=TCN:_Extending_Anthophila_research_through_image_and_trait_digitization_(Big-Bee)&mobileaction=toggle_view_desktop), Extending Anthophila research through image and trait digitilization. ([NSF:DBI:2102006](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2102006&HistoricalAwards=false)), Taxon Works [https://taxonworks.org/](https://taxonworks.org/), [National Bee Monitoring RCN](https://www.nativebeemonitoring.org)
 
 <a href="https://www.idigbio.org/wiki/index.php?title=TCN:_Extending_Anthophila_research_through_image_and_trait_digitization_(Big-Bee)&mobileaction=toggle_view_desktop"><img src="fig/big-bee-reg.png" class="inline-image" style="height: 6em;"></a>
 <a href="https://nsf.gov"><img src="fig/NSF_Official_logo_High_Res_1200ppi.png" class="inline-image" style="height: 6em;"></a> 
@@ -111,7 +107,7 @@ Global Biotic Interactions [GloBI](https://globalbioticinteractions.org) for int
 
 ## Disclaimer
 
-Note that this is not (yet) an official Carpentries workshop, but we are working towards becoming one.
+Note that this is not (yet) an official Carpentries workshop, but we are working towards becoming one. We thank the Carpentries for making their templates available for reuse.
 
 {% comment %}
 AUDIENCE
