@@ -3,22 +3,22 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "Big-Bee-Network"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+venue: "Native bee biodiversity data management workshop"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "45"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "18 January 2023"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "1:00 pm - 2:00 pm PST"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2023-01-18      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2023-01-18        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+humantime: "10:00 pm - 2:00 pm PST via Zoom"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2023-03-28      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2023-03-30        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Deb Paul", "Katja Seltmann"] 
 # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 # helper: [ "you!" ]
 
 # ["helper one", "helper two"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["jtmiller@ucsb.edu", "jhpoelen@jhpoelen.nl", "seltmann@ucsb.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+email: ["seltmann@ucsb.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
@@ -102,8 +102,8 @@ A special thanks to the following organizations and projects that made this work
 
 <a href="https://www.idigbio.org/wiki/index.php?title=TCN:_Extending_Anthophila_research_through_image_and_trait_digitization_(Big-Bee)&mobileaction=toggle_view_desktop"><img src="fig/big-bee-reg.png" class="inline-image" style="height: 6em;"></a>
 <a href="https://nsf.gov"><img src="fig/NSF_Official_logo_High_Res_1200ppi.png" class="inline-image" style="height: 6em;"></a> 
-<a href="https://globalbioticinteractions.org"><img src="fig/globi_long.png" class="inline-image" style="height: 5em;"></a>
-<a href="https://www.idigbio.org/"><img src="fig/IDigBio_Logo_RGB.png" class="inline-image" style="height: 4em;"></a> 
+<a href="https://www.nativebeemonitoring.org"><img src="https://images.squarespace-cdn.com/content/v1/61faf397da49d61281536985/402817ce-8cdc-459a-b49a-6404dd190432/NationalNativeBee-Logo_Color_white+background.png" class="inline-image" style="height: 5em;"></a>
+<a href="https://taxonworks.org/"><img src="https://docs.taxonworks.org/images/taxonworks_home.svg" class="inline-image" style="height: 4em;"></a> 
 
 ## Disclaimer
 
