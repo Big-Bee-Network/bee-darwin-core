@@ -3,11 +3,13 @@
 This is an introductory Darwin Core mapping exercise using bee monitoring and biodiversity datasets.
 
 ## Native bee biodiversity data management workshop
-Instructors: Katja C. Seltmann(1) & Deb Paul(2)
+
+`Instructors: Katja C. Seltmann(1) & Deb Paul(2)
 (1)Vernon and Mary Cheadle Center for Biodiversity and Ecological Restoration, University of California, Santa Barbara
 (2)Species File Group, Prairie Research Institute, Illinois Natural History Survey, University of Illinois Urbana-Champaign
+
   28 March 2023, 10:00 pm - 2:00 pm PST via Zoom
-  30 March 2023, 10:00 pm - 2:00 pm PST via Zoom
+  30 March 2023, 10:00 pm - 2:00 pm PST via Zoom`
   
  ## Follow along with a Darwin Core mapping exercise. 
   * [Link to unmapped dataset]()
