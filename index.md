@@ -3,7 +3,9 @@
 # Native bee biodiversity data management workshop
 
 Instructors: Deborah Paul, Katja C. Seltmann
+
   28 March 2023, 10:00 pm - 2:00 pm PST via Zoom
+  
   28 March 2023, 10:00 pm - 2:00 pm PST via Zoom
 
 A introductory Darwin Core mapping exercise using bee monitoring and biodiversity datasets.
