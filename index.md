@@ -1,6 +1,6 @@
 
 # Darwin Core Mapping for Bee Biodiversity Data
-## A introductory Darwin Core mapping exercise using bee monitoring and biodiversity datasets.
+This is an introductory Darwin Core mapping exercise using bee monitoring and biodiversity datasets.
 
 ## Native bee biodiversity data management workshop
 
@@ -9,6 +9,11 @@ Instructors: Deborah Paul, Katja C. Seltmann
   28 March 2023, 10:00 pm - 2:00 pm PST via Zoom
   
   28 March 2023, 10:00 pm - 2:00 pm PST via Zoom
+  
+  ## Follow along with a Darwin Core mapping exercise. 
+  * Link to unmapped dataset
+  * (Link to exercise)[https://docs.google.com/document/d/1ORKuT5ug6OdRIaO_juLxAGQjn2Q3tZvDZAqtjWDZfVY/edit?usp=sharing]
+  * Link to answers spreadsheet
 
 
 
