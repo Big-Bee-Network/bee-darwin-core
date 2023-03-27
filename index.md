@@ -3,20 +3,18 @@
 This is an introductory Darwin Core mapping exercise using bee monitoring and biodiversity datasets.
 
 ## Native bee biodiversity data management workshop
-
-Instructors: Deborah Paul, Katja C. Seltmann
-
+``Instructors: Deborah Paul, Katja C. Seltmann
   28 March 2023, 10:00 pm - 2:00 pm PST via Zoom
+  30 March 2023, 10:00 pm - 2:00 pm PST via Zoom``
   
-  28 March 2023, 10:00 pm - 2:00 pm PST via Zoom
-  
-  ## Follow along with a Darwin Core mapping exercise. 
-  * Link to unmapped dataset
-  * (Link to exercise)[https://docs.google.com/document/d/1ORKuT5ug6OdRIaO_juLxAGQjn2Q3tZvDZAqtjWDZfVY/edit?usp=sharing]
-  * Link to answers spreadsheet
+ ## Follow along with a Darwin Core mapping exercise. 
+  * [Link to unmapped dataset]()
+  * [Link to exercise](https://docs.google.com/document/d/1ORKuT5ug6OdRIaO_juLxAGQjn2Q3tZvDZAqtjWDZfVY/edit?usp=sharing)
+  * [Link to answers spreadsheet](https://docs.google.com/spreadsheets/d/1hmYM39TAOxaPd6nWukubtZY14yZdBvq0P_FZWWwCHs0/edit?usp=sharing)
+  * [Link to Darwin Core terms list]()
 
-
-
+## Dataset Citation
+Decker, B.L., Harmon-Threatt, A.N. Growing or dormant season burns: the effects of burn season on bee and plant communities. Biodivers Conserv 28, 3621–3631 (2019). (https://doi.org/10.1007/s10531-019-01840-6)[https://doi.org/10.1007/s10531-019-01840-6]
 
 ## Acknowledgements
 A special thanks to the following organizations and projects that made this work and tutorial possible:
