@@ -1,8 +1,8 @@
 
-## Darwin Core Mapping for Bee Biodiversity Data
-# A introductory Darwin Core mapping exercise using bee monitoring and biodiversity datasets.
+# Darwin Core Mapping for Bee Biodiversity Data
+## A introductory Darwin Core mapping exercise using bee monitoring and biodiversity datasets.
 
-# Native bee biodiversity data management workshop
+## Native bee biodiversity data management workshop
 
 Instructors: Deborah Paul, Katja C. Seltmann
 
