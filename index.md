@@ -17,6 +17,7 @@ This is an introductory Darwin Core mapping exercise using bee monitoring and bi
   3 [Link to Darwin Core Quick Reference Terms](https://dwc.tdwg.org/terms/)  
   4 [Link to rcn-bee-data-mapping-template](https://docs.google.com/spreadsheets/d/1HfWM_7A4tH_OiUtwv8OriEfqvddXKS6iwZcC5q72T-E/edit?usp=sharing)  
   5 [Link to EML metadata mapping spreadsheet](https://docs.google.com/spreadsheets/d/1A0hKLyhiW_mvf1itQF8MJnzssdN3W-MC6c0QzaoK4Qg/edit?usp=sharing)  
+  6 [Let's Talk About Data](https://docs.google.com/presentation/d/1GyrTBYeuxQ1ELJeqyV_dW6o3VXy4yuQOlc5fTAz1vO4/edit?usp=sharing) presentation
 
 ## Dataset Citation
 Decker, B.L., Harmon-Threatt, A.N. Growing or dormant season burns: the effects of burn season on bee and plant communities. Biodivers Conserv 28, 3621–3631 (2019). [https://doi.org/10.1007/s10531-019-01840-6](https://doi.org/10.1007/s10531-019-01840-6)
